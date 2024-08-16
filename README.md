@@ -1,7 +1,4 @@
 
-       /     /   ▶ Ordinals API   
-      / --- /      A service that ingests Bitcoin ordinal inscriptions to expose them via REST API endpoints.
-     /     /       
 
 * [Features](#features)
 * [API Reference](#api-reference)
